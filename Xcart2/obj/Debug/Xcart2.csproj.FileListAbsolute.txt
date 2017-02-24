@@ -1,0 +1,14 @@
+D:\New folder\Xcart2\Xcart2\bin\Debug\xunit.execution.desktop.dll
+D:\New folder\Xcart2\Xcart2\bin\Debug\Xcart2.dll.config
+D:\New folder\Xcart2\Xcart2\bin\Debug\Xcart2.dll
+D:\New folder\Xcart2\Xcart2\bin\Debug\Xcart2.pdb
+D:\New folder\Xcart2\Xcart2\bin\Debug\nunit.framework.dll
+D:\New folder\Xcart2\Xcart2\bin\Debug\TechTalk.SpecFlow.dll
+D:\New folder\Xcart2\Xcart2\bin\Debug\WebDriver.dll
+D:\New folder\Xcart2\Xcart2\bin\Debug\WebDriver.Support.dll
+D:\New folder\Xcart2\Xcart2\bin\Debug\nunit.framework.xml
+D:\New folder\Xcart2\Xcart2\bin\Debug\WebDriver.xml
+D:\New folder\Xcart2\Xcart2\bin\Debug\WebDriver.Support.xml
+D:\New folder\Xcart2\Xcart2\obj\Debug\Xcart2.dll
+D:\New folder\Xcart2\Xcart2\obj\Debug\Xcart2.pdb
+D:\New folder\Xcart2\Xcart2\obj\Debug\Xcart2.csprojResolveAssemblyReference.cache
